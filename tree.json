@@ -1,0 +1,37 @@
+{
+	"id": "420e45d3-f3e5-4d2c-a2bf-f276496389f2",
+	"name": "CEO",
+	"children": [{
+		"id": "855f96b9-60fe-4c27-9fe2-350370b1886c",
+		"name": "Manager",
+		"children": [{
+				"id": "c3594b8a-e3a6-459f-9506-5e70cbc51a75",
+				"name": "Foreman1",
+				"children": [{
+					"id": "dd975fd6-5e7c-4644-9efb-75bd843142d8",
+					"name": "Worker1",
+					"children": [
+
+					]
+				}]
+			},
+			{
+				"name": "Foreman 2",
+				"id": "90eaf727-a803-459e-ae7b-0e857d371f4f",
+				"children": [{
+					"id": "246bb25a-b9d2-42b1-8ff9-8997431e5f6b",
+					"name": "Worker3",
+					"children": [{
+						"name": "Foreman 3",
+						"id": "90eaf727-a803-459e-ae7b-0e857d371f48",
+						"children": [{
+							"id": "246bb25a-b9d2-42b1-8ff9-8997431e5f69",
+							"name": "Worker3",
+							"children": []
+						}]
+					}]
+				}]
+			}
+		]
+	}]
+}
